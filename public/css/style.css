@@ -1,0 +1,105 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    
+}
+
+li{
+    float: left;
+    margin-left: 6%;
+    text-align: center;
+    color: white;
+    font-family: fantasy;
+    font-size: 30px;
+    list-style: none;
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: black;
+}
+.menu{
+    background-color: #ed273d;
+    height: 40px;
+}
+h1{
+    margin-top: 4%;
+    font-family: fantasy;
+    text-align: center;
+    color: #df2810;
+    font-size: 40px;
+}
+.imagenP{
+    width: 400px;
+    margin-left: 35%;
+}
+h3{
+    margin-top: 4%;
+    font-family: fantasy;
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    background-color: #df2810;
+}
+/* DESCRIPCION */
+.text-p{
+    width: 40%;
+    margin-left: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+/* ESTUDIOS*/
+.contenedor-list{
+    width: 40%;
+    margin-left: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+/* EXPERIENCIA*/
+.cont-exp{
+    width: 40%;
+    margin-left: 30%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+/* INICIO*/
+.contenedor-in{
+    width: 40%;
+    margin-left: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+/* APTITUDES */
+.text-apt{
+    width: 40%;
+    margin-left: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
+/* CONTACTO*/
+.cont-contac{
+    width: 40%;
+    margin-left: 40%;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 3%;
+    margin-bottom: 3%;
+}
